@@ -2,6 +2,8 @@
 
 # Tutorial View
 
+hi
+
 Ready to use tutorial screen.
 
 ![sample_video](assets/sample.gif)
